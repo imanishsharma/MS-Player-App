@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="0d79788b-a895-43f2-926a-3249aed168ba" Publisher="CN=Mannu" Version="1.0.0.0" />
+  <Properties>
+    <DisplayName>MS Player App</DisplayName>
+    <PublisherDisplayName>Mannu</PublisherDisplayName>
+    <Logo>Assets\logo ms player 50.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="MS_Player_App.App">
+      <VisualElements DisplayName="MS Player App" Logo="Assets\logo ms player 150.png" SmallLogo="Assets\logo ms player 30.png" Description="MS Player App" ForegroundText="light" BackgroundColor="navy">
+        <DefaultTile ShowName="allLogos" />
+        <SplashScreen Image="Assets\logo ms player 620.png" />
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="musicLibrary" />
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>

@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MANISH</Machine>
+    <WindowsUser>Mannu</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>D487E8E1E974C907307E1D05FBCAA8EDC8FF17D77039F3127566A428C4C2BEC3</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>0d79788b-a895-43f2-926a-3249aed168ba_1.0.0.0_neutral__4z8b2c1pbr556</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>0d79788b-a895-43f2-926a-3249aed168ba_4z8b2c1pbr556!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>0d79788b-a895-43f2-926a-3249aed168ba</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Mannu</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-10-19T11:51:50.347</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\bin\Debug\MS Player App.exe">
+      <PackagePath>MS Player App.exe</PackagePath>
+      <Modified>2016-10-28T09:23:44.072</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\bin\Debug\MS Player App.pdb">
+      <PackagePath>MS Player App.pdb</PackagePath>
+      <Modified>2016-10-28T09:23:44.032</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\Assets\background.jpg">
+      <PackagePath>Assets\background.jpg</PackagePath>
+      <Modified>2016-10-09T07:36:00.140</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\Assets\music.jpg">
+      <PackagePath>Assets\music.jpg</PackagePath>
+      <Modified>2016-10-09T07:36:00.165</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\Media Files\Thumbnails\thumbnails.jpg">
+      <PackagePath>Media Files\Thumbnails\thumbnails.jpg</PackagePath>
+      <Modified>2016-09-10T08:47:44.997</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\Assets\itunes.png">
+      <PackagePath>Assets\itunes.png</PackagePath>
+      <Modified>2016-10-19T11:49:39.348</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\Assets\listbackground.png">
+      <PackagePath>Assets\listbackground.png</PackagePath>
+      <Modified>2016-10-09T08:31:14.556</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\Assets\logo ms player 150.png">
+      <PackagePath>Assets\logo ms player 150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-10-09T07:37:52.705</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\Assets\logo ms player 30.png">
+      <PackagePath>Assets\logo ms player 30.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-10-09T07:39:55.909</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\Assets\logo ms player 310 150.png">
+      <PackagePath>Assets\logo ms player 310 150.png</PackagePath>
+      <Modified>2016-10-09T07:39:02.775</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\Assets\logo ms player 50.png">
+      <PackagePath>Assets\logo ms player 50.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-10-09T07:45:42.730</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\Assets\logo ms player 620.png">
+      <PackagePath>Assets\logo ms player 620.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-10-09T07:52:54.328</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\Assets\logo ms player.png">
+      <PackagePath>Assets\logo ms player.png</PackagePath>
+      <Modified>2016-10-09T07:36:00.146</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\Assets\splash ss.gif.png">
+      <PackagePath>Assets\splash ss.gif.png</PackagePath>
+      <Modified>2016-10-09T07:44:36.113</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\splash ss.gif.png">
+      <PackagePath>splash ss.gif.png</PackagePath>
+      <Modified>2016-10-09T07:44:21.554</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\Media Files\Songs\PuggWalaMunda.mp3">
+      <PackagePath>Media Files\Songs\PuggWalaMunda.mp3</PackagePath>
+      <Modified>2016-09-08T07:53:07.181</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\Media Files\Songs\Sanam Re.mp3">
+      <PackagePath>Media Files\Songs\Sanam Re.mp3</PackagePath>
+      <Modified>2016-09-08T07:53:07.241</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\Media Files\Songs\Aap ki nazro.mp3">
+      <PackagePath>Media Files\Songs\Aap ki nazro.mp3</PackagePath>
+      <Modified>2016-09-08T07:53:07.259</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\Media Files\Songs\Abhi na jao.mp3">
+      <PackagePath>Media Files\Songs\Abhi na jao.mp3</PackagePath>
+      <Modified>2016-09-08T07:53:07.280</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\Media Files\Songs\Emtiness.mp3">
+      <PackagePath>Media Files\Songs\Emtiness.mp3</PackagePath>
+      <Modified>2016-09-08T07:53:07.300</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\Media Files\Songs\Mai Wo Chand.mp3">
+      <PackagePath>Media Files\Songs\Mai Wo Chand.mp3</PackagePath>
+      <Modified>2016-09-08T07:53:07.329</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\Media Files\Songs\Pal Pal Dil Ke Paas.mp3">
+      <PackagePath>Media Files\Songs\Pal Pal Dil Ke Paas.mp3</PackagePath>
+      <Modified>2016-09-08T07:53:07.348</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\Media Files\Songs\Samjhawan.mp3">
+      <PackagePath>Media Files\Songs\Samjhawan.mp3</PackagePath>
+      <Modified>2016-09-08T07:53:07.369</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2016-09-08T07:16:01.494</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2016-10-07T12:05:53.305</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2016-10-28T09:23:41.069</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-10-19T11:51:49.092</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

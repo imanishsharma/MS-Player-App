@@ -1,0 +1,39 @@
+C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\bin\Debug\MS Player App.exe
+C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\bin\Debug\MS Player App.pdb
+C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\bin\Debug\resources.pri
+C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\bin\Debug\AppxManifest.xml
+C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\bin\Debug\MS Player App.build.appxrecipe
+C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\obj\Debug\App.g.i.cs
+C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\obj\Debug\App.g.cs
+C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\obj\Debug\MainPage.g.i.cs
+C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\obj\Debug\MainPage.g.cs
+C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\obj\Debug\App.xaml
+C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\obj\Debug\MainPage.xaml
+C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\obj\Debug\MS Player App.exe
+C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\obj\Debug\MS Player App.pdb
+C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\obj\Debug\priconfig.xml
+C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\obj\Debug\layout.resfiles
+C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\obj\Debug\resources.resfiles
+C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\obj\Debug\pri.resfiles
+C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\obj\Debug\LanguageQualifiers.txt
+C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\obj\Debug\ProjectArchitectures.txt
+C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\obj\Debug\priconfig.xml.intermediate
+C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\obj\Debug\layout.resfiles.intermediate
+C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\obj\Debug\resources.resfiles.intermediate
+C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\obj\Debug\pri.resfiles.intermediate
+D:\VISUAL STUDIO\Projects\MS Player App\MS Player App\obj\Debug\App.g.i.cs
+D:\VISUAL STUDIO\Projects\MS Player App\MS Player App\obj\Debug\App.g.cs
+D:\VISUAL STUDIO\Projects\MS Player App\MS Player App\obj\Debug\Common\StandardStyles.g.i.cs
+D:\VISUAL STUDIO\Projects\MS Player App\MS Player App\obj\Debug\Common\StandardStyles.g.cs
+D:\VISUAL STUDIO\Projects\MS Player App\MS Player App\obj\Debug\MainPage.g.i.cs
+D:\VISUAL STUDIO\Projects\MS Player App\MS Player App\obj\Debug\MainPage.g.cs
+D:\VISUAL STUDIO\Projects\MS Player App\MS Player App\obj\Debug\XamlTypeInfo.g.cs
+D:\VISUAL STUDIO\Projects\MS Player App\MS Player App\obj\Debug\App.xaml
+D:\VISUAL STUDIO\Projects\MS Player App\MS Player App\obj\Debug\Common\StandardStyles.xaml
+D:\VISUAL STUDIO\Projects\MS Player App\MS Player App\obj\Debug\MainPage.xaml
+D:\VISUAL STUDIO\Projects\MS Player App\MS Player App\obj\Debug\MS Player App.exe
+D:\VISUAL STUDIO\Projects\MS Player App\MS Player App\obj\Debug\MS Player App.pdb

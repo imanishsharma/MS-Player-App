@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MANISH</Machine>
+    <WindowsUser>Mannu</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\bin\Debug\MS Player App.exe">
+      <PackagePath>MS Player App.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\bin\Debug\MS Player App.pdb">
+      <PackagePath>MS Player App.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\Assets\background.jpg">
+      <PackagePath>Assets\background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\Assets\music.jpg">
+      <PackagePath>Assets\music.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\Media Files\Thumbnails\thumbnails.jpg">
+      <PackagePath>Media Files\Thumbnails\thumbnails.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\Assets\itunes.png">
+      <PackagePath>Assets\itunes.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\Assets\listbackground.png">
+      <PackagePath>Assets\listbackground.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\Assets\logo ms player 150.png">
+      <PackagePath>Assets\logo ms player 150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\Assets\logo ms player 30.png">
+      <PackagePath>Assets\logo ms player 30.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\Assets\logo ms player 310 150.png">
+      <PackagePath>Assets\logo ms player 310 150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\Assets\logo ms player 50.png">
+      <PackagePath>Assets\logo ms player 50.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\Assets\logo ms player 620.png">
+      <PackagePath>Assets\logo ms player 620.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\Assets\logo ms player.png">
+      <PackagePath>Assets\logo ms player.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\Assets\splash ss.gif.png">
+      <PackagePath>Assets\splash ss.gif.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\splash ss.gif.png">
+      <PackagePath>splash ss.gif.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\Media Files\Songs\PuggWalaMunda.mp3">
+      <PackagePath>Media Files\Songs\PuggWalaMunda.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\Media Files\Songs\Sanam Re.mp3">
+      <PackagePath>Media Files\Songs\Sanam Re.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\Media Files\Songs\Aap ki nazro.mp3">
+      <PackagePath>Media Files\Songs\Aap ki nazro.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\Media Files\Songs\Abhi na jao.mp3">
+      <PackagePath>Media Files\Songs\Abhi na jao.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\Media Files\Songs\Emtiness.mp3">
+      <PackagePath>Media Files\Songs\Emtiness.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\Media Files\Songs\Mai Wo Chand.mp3">
+      <PackagePath>Media Files\Songs\Mai Wo Chand.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\Media Files\Songs\Pal Pal Dil Ke Paas.mp3">
+      <PackagePath>Media Files\Songs\Pal Pal Dil Ke Paas.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\Media Files\Songs\Samjhawan.mp3">
+      <PackagePath>Media Files\Songs\Samjhawan.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mannu.manish\Documents\Visual Studio 2012\Projects\MS Player App\MS Player App\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
